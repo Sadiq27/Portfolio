@@ -1,0 +1,83 @@
+@media (max-width: 375px) {
+	.container {
+		width: 200px;
+	}
+
+	.menu {
+		display: none;
+	}
+
+	hr {
+		display: none;
+	}
+
+	.offer {
+		display: block;
+	}
+
+	.offer p {
+		margin-bottom: 37px;
+		margin-top: 23px;
+	}
+
+	.hamburger-menu {
+		display: block;
+	}
+
+	.img {
+		display: none;
+	}
+
+	.img2 {
+		display: block;
+		margin-left: -55px;
+	}
+
+	.about p {
+		width: 244px;
+	}
+
+	.skills p {
+		margin-left: 20px;
+	}
+
+	.skills p:nth-child(1) {
+		margin-left: 20px;
+	}
+
+	.img_big {
+		display: none;
+	}
+
+	.img_small {
+		display: block;
+	}
+
+	.portfolio p {
+		padding-top: 30px;
+		padding-bottom: 20px;
+	}
+
+	.portfolio p img {
+		width: -webkit-fill-available;
+	}
+
+	.socail p {
+		margin-left: 6px;
+	}
+
+	.socail p:nth-child(1) {
+		margin-left: 6px;
+	}
+
+	.socail p:nth-child(5) {
+		width: 210px;
+	}
+	
+	
+
+
+
+
+
+}
